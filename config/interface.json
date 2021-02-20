@@ -1,0 +1,7 @@
+{
+	"case0001_requests_data":{"method":"appcard_cardtype_getinfo"},
+	"case0001_header":{"Connection":"keep-alive","Content-Encoding":"gzip","Content-Type":"text/html"},
+	"case0002_requests_data":{"method":"appcard_consumetype_getinfo"},
+	"case0003_requests_data":{"method":"appcard_cardmoney_getinfo","cinfo":"{'fcm_areaname':'0.001','fcm_id':'0012101190011'}"}
+}
+
